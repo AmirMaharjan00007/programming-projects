@@ -98,8 +98,7 @@ Programming knowledge is fundamental to cybersecurity practice:
 
 ## Current Development Focus
 
-As I prepare for the Master of Information Technology at the
-University of Waikato, I am focusing my programming development
+As I prepare for the Master of Information Technology, I am focusing my programming development
 on cybersecurity-relevant applications:
 
 - Python scripts for network analysis and security automation
